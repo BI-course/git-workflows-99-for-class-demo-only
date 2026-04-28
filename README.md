@@ -23,4 +23,6 @@ Refer to the files in the order specified below for more details:
 - Member 2: Bob Otieno
 - Member 3: Carol Mwangi
 - Member 4: David Njoroge
-- Member 5: Eve WanjikuProject lead: Member 4 — responsible for overall coordination.
+- Member 5: Eve Wanjiku
+
+Project lead: Member 4 — responsible for overall coordination.
