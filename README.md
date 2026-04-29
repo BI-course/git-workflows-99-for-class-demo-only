@@ -26,4 +26,4 @@ Refer to the files in the order specified below for more details:
 - Member 5: Eve Wanjiku
 
 Project lead: Member 4 — responsible for overall coordination.
-Project lead: Member 5 — responsible for governance and audit.
+Project lead: Member 5 — responsible for governance and audit.Project lead: Member 4 — responsible for overall coordination.
