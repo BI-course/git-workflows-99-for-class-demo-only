@@ -23,13 +23,10 @@ Refer to the files in the order specified below for more details:
 - Member 2: Bob Otieno
 - Member 3: Carol Mwangi
 - Member 4: David Njoroge
-<<<<<<< HEAD
 - Member 5: Eve WanjikuProject lead: Member 4 — responsible for overall coordination.
 Project lead: Member 4 — responsible for overall coordination.
-=======
 - Member 5: Eve Wanjiku
-
+Demo of Merge Conflict for Group A
 Project lead: Member 4 — responsible for overall coordination.
 Project lead: Member 5 — responsible for governance and audit.
->>>>>>> f56f0d1745955d0d9b6e76c69bbc9e791bf3181a
 Project lead: Member 4 — responsible for overall coordination.
